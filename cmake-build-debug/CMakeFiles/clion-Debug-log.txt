@@ -1,0 +1,5 @@
+"E:\Clion\CLion 2023.1.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/Clion/CLion 2023.1.3/bin/ninja/win/x64/ninja.exe" -DCMAKE_C_COMPILER=E:/STM32cube/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe -DCMAKE_CXX_COMPILER=E:/STM32cube/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-g++.exe -G Ninja -S E:\RM\ThirdTime -B E:\RM\ThirdTime\cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/RM/ThirdTime/cmake-build-debug
