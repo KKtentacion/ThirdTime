@@ -24,7 +24,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "PIDclass.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -154,6 +154,18 @@ void SystemClock_Config(void)
 }
 
 /* USER CODE BEGIN 4 */
+
+//任务一：对小球进行速度控制
+//可用条件：已知小球的实时速度，并且可施加一个力来改变小球的速度
+//PID目标值：需要小球达到的速度
+//PID反馈值：小球的实时速度
+//PID输出值：施加在小球上的力
+//分析：小球加速度是小球速度的低阶物理量，而施加的力正比于小球加速度
+
+void PIDContorller()
+{
+
+}
 void motorgo(){
     for(int i=5;i<10;i++){
         __HAL_TIM_SET_COMPARE(&htim1,TIM_CHANNEL_1,i);

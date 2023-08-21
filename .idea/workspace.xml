@@ -20,7 +20,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c90f2fa-0e5c-4a5a-a9bb-f961ccd10e44" name="更改" comment="" />
+    <list default="true" id="5c90f2fa-0e5c-4a5a-a9bb-f961ccd10e44" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/Core/Inc/PIDclass.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +34,9 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2023" />
@@ -73,6 +80,7 @@
       <updated>1691467837835</updated>
       <workItem from="1691467845213" duration="7796000" />
       <workItem from="1691514146112" duration="26000" />
+      <workItem from="1692633199358" duration="3463000" />
     </task>
     <servers />
   </component>
